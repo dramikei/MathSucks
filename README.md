@@ -11,4 +11,5 @@ Strings then convert them into Float.
 Then It Divides the Percentage number by 100 and then multiplies it with the Number from the 'Number Field' and outputs the Result on the totalText Label.
 
 By - Raghav Vashisht
+
 Course undertaken - Devslopes
